@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ユーザーリスト</string>
+    <string name="name">お名前</string>
+    <string name="phone">電話番号</string>
+    <string name="address">住所</string>
+    <string name="save">保存</string>
+    <string name="update">更新</string>
+    <string name="delete">削除</string>
+</resources>
